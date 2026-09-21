@@ -13,3 +13,5 @@ data/
 output/
 
 .DS_Store
+
+.qodo/
